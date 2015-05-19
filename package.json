@@ -1,0 +1,21 @@
+{
+  "name": "necromancer",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node necromancer"
+  },
+  "dependencies": {
+      "express":            "4.0.x"
+    , "request":            "*"
+    , "cheerio":            "*"
+    , "antigate":           "*"
+	, "colors":				"*"
+	, "async":              "*"
+	, "later":              "*"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }
+}
